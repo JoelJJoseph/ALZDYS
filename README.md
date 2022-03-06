@@ -32,3 +32,16 @@ It provides the following features:
 ## How we built it
 
 I have built this chrome extension using Java Script, HTML and CSS. I have used the Google's Custom Search API for displaying the images corresponding to different words. I have also used a Google's Text-To-Speech API for reading content aloud to the users. 
+
+## Images
+![gallery (1)](https://user-images.githubusercontent.com/72274851/156928386-9f68260b-eb7d-4240-8533-ce384136ad6b.jpg)
+![gallery (2)](https://user-images.githubusercontent.com/72274851/156928393-0f966e31-7ccc-4d5e-a256-a06c89146dfe.jpg)
+![gallery (3)](https://user-images.githubusercontent.com/72274851/156928395-11ce9dee-77a5-4eb1-b670-d9dd2cd35afe.jpg)
+![gallery (4)](https://user-images.githubusercontent.com/72274851/156928397-384118d8-7a34-4574-8ae5-b501012e141e.jpg)
+![gallery (5)](https://user-images.githubusercontent.com/72274851/156928398-361a9332-571a-4af0-b5d1-e17522b7d2cb.jpg)
+![gallery (6)](https://user-images.githubusercontent.com/72274851/156928399-59b8b381-6860-451f-96fb-94042bcec9b3.jpg)
+![gallery (7)](https://user-images.githubusercontent.com/72274851/156928402-1724695a-6696-4c74-a9e8-8e94cee952ed.jpg)
+![gallery](https://user-images.githubusercontent.com/72274851/156928403-715dcfc4-dc7b-4bb9-8f24-e089ccdee76a.jpg)
+![gallery (8)](https://user-images.githubusercontent.com/72274851/156928404-ebcd4d4a-982e-4e44-97bc-baa13391003e.jpg)
+
+
